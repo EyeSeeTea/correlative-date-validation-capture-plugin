@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2025-08-29T13:07:33.885Z\n"
+"PO-Revision-Date: 2025-08-29T13:07:33.885Z\n"
+
+msgid "Date warning"
+msgstr "Date warning"
+
+msgid ""
+"The date of the current event is before the date of the last event in this "
+"enrollment."
+msgstr ""
+"The date of the current event is before the date of the last event in this "
+"enrollment."
+
+msgid "Current Event"
+msgstr "Current Event"
+
+msgid "Last Event Date"
+msgstr "Last Event Date"
+
+msgctxt "Application title"
+msgid "__MANIFEST_APP_TITLE"
+msgstr "Correlative date validation Capture Plugin"
+
+msgctxt "Application description"
+msgid "__MANIFEST_APP_DESCRIPTION"
+msgstr ""
+"A Capture Plugin that emits a warning when an event date is before another "
+"event date for same enrollment"
